@@ -11,5 +11,7 @@
     <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/tinacms-cest-pas-encore-super-au-point/</loc>
   </url>
 </urlset>
